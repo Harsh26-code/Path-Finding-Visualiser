@@ -14,10 +14,13 @@ const Flash = () => {
           User can make walls by Left-Clicking in the Grid.
         </li>
         <li className="list-group-item bg-light bg-gradient">
-          Dijkstra Algorithm ensures Shortest Path
+        Dijkstra's Algorithm finds the shortest path between source node and destination node for any weighted,directed graph with non-negative weights.
         </li>
         <li className="list-group-item">
-          BFS and DFS don't ensure Shortest Path
+        Breadth First Search (BFS) is an algorithm for traversing or searching tree or graph data structures. It explores all the nodes at the present depth before moving on to the nodes at the next depth level.
+        </li>
+        <li className="list-group-item">
+        Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node and explores as far as possible along each branch before backtracking.
         </li>
         {/* <li className="list-group-item bg-light bg-gradient">
           User can move Origin and Distination anywhere in the Grid
