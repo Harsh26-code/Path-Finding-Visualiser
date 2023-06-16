@@ -1,4 +1,4 @@
-## Can view this Project on  [Shortest Path Finder](https://findthepath.netlify.app/).
+## Can view this Project on  [Shortest Path Finder](https://path-finding-visualiser.onrender.com/).
 
 # Getting Started with Create React App
 
