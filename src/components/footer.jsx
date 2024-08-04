@@ -7,10 +7,10 @@ const Footer = () => {
       <div class="container text-center">
         <span class="text-muted">
           Made with Love by &copy;Harsh Agarwal{" "}
-          <a href="https://github.com/Harsh26-code/Path-Finding-visualiser">
+          <a href="https://github.com/gGar7/PathFinder">
             <FaGithub />
           </a>{" "}
-          <a href="https://www.linkedin.com/in/harsh-agarwal-a43a151b8/">
+          <a href="https://www.linkedin.com/in/gautam-agarwal-21ba94228/">
             <FaLinkedin />
           </a>
         </span>
