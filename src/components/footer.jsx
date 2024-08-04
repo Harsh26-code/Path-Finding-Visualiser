@@ -6,7 +6,7 @@ const Footer = () => {
     <footer class="footer bg-dark py-3 mt-auto">
       <div class="container text-center">
         <span class="text-muted">
-          Made with Love by &copy;Harsh Agarwal{" "}
+          Made with Love by &copy;Gautam Agarwal{" "}
           <a href="https://github.com/gGar7/PathFinder">
             <FaGithub />
           </a>{" "}
